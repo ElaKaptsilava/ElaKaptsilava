@@ -23,5 +23,7 @@
   </a></li>
 </ul>
 <h3>:fire: My Stats :</h3>
-<img src="https://streak-stats.demolab.com?user=ElaKaptsilava&theme=dark&hide_border=true&border_radius=4.1&fire=EB081D&ring=FDFF10" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaKaptsilava&layout=compact" alt="Top Langs" />
+<img src="https://streak-stats.demolab.com?user=ElaKaptsilava&theme=highcontrast&hide_border=true&border_radius=4.1&fire=EB081D&ring=FDFF10&hide_border=false&border=FFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaKaptsilava&layout=donut&theme=highcontrast&bg_color=000000" alt="Top Langs" />
+
+

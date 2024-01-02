@@ -22,6 +22,18 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a></li>
 </ul>
+<h3><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Languages and Tools :</h3>
+<ul>
+    <li>Python (Programming Language)</li>
+    <li>Django</li>
+    <li>Django Rest Framework</li>
+    <li>Docker & Docker-compose</li>
+    <li>Sentry</li>
+    <li>Postman</li>
+    <li>Celery</li>
+    <li>Object-Oriented Programming (OOP)</li>
+    <li>PostrgreSQL</li>
+</ul>
 <h3><img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="30"> My Stats :</h3>
 <img src="https://streak-stats.demolab.com?user=ElaKaptsilava&theme=highcontrast&hide_border=true&border_radius=4.1&fire=EB081D&ring=FDFF10&hide_border=false&border=FFFFF" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaKaptsilava&layout=donut&theme=highcontrast&bg_color=000000" alt="Top Langs" />
